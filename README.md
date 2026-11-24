@@ -4,8 +4,9 @@
 [![rank](https://make.fun/badge/news-image-20261123/Siezy/news-image-20261123-vel2/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/Siezy/news-image-20261123-vel2/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-Entry for make.fun's "Sum up 23 November's world news in one image": one 1024x1024 image summing 31 verified stories of Monday 23 November 2026 across 7 regions, led by the COP31 collapse and the Ukrainian naval-drone sinking of a Russian warship off Libya. Sources: BBC World, Al Jazeera, NPR, The Guardian.
+Entry for make.fun's "Sum up 23 November's world news in one image": one 1024x1024 image summing 40 dated stories of Monday 23 November 2026 across 7 regions, led by the COP31 collapse and the Ukrainian naval-drone sinking of a Russian warship off Libya. Sources: BBC World, Al Jazeera, NPR, The Guardian.
 Entry image: 31 stories, 7 regions, COP31 lead.
+Round 3 revision: 40 dated stories, 7 regions, v2 design.
 
 ## Run it
 
